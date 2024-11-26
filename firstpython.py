@@ -1,0 +1,2 @@
+# Display input  
+print ("test")
