@@ -1,2 +1,2 @@
 # Display input  
-print ("test")
+print("test")
